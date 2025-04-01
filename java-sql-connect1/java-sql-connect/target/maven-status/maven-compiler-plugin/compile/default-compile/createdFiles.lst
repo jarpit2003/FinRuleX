@@ -1,0 +1,9 @@
+com\example\java_sql_connect\BasicControllers\BaseController.class
+com\example\java_sql_connect\Services\LimitRulesService.class
+com\example\java_sql_connect\Controllers\LimitRulesController.class
+com\example\java_sql_connect\Entities\Entityinterface\repository.class
+com\example\java_sql_connect\DatabaseConnectionTest.class
+com\example\java_sql_connect\Entities\LimitRules.class
+com\example\java_sql_connect\Repository\LimitRulesRepository.class
+com\example\java_sql_connect\Services\Impl\ServiceImp.class
+com\example\java_sql_connect\Controllers\LimitRequestSet.class
